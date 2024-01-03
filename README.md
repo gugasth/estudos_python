@@ -11,3 +11,7 @@
 ## [Intermediário (2)](intermediario)
 
 - [*Args](intermediario/*args.py)
+
+- [Closure](intermediario/closure.py)
+
+- [Dict](intermediario/dict.py)
