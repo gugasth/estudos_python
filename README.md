@@ -15,3 +15,5 @@
 - [Closure](intermediario/closure.py)
 
 - [Dict](intermediario/dict.py)
+
+- [List Comprehension](intermediario/list_comprehension.py)
