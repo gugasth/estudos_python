@@ -17,3 +17,7 @@ print(lista)
 # ou 
 lista2 = [numero * 2 for numero in range(10)]
 print(lista2)
+
+# ou
+lista3 = [numero * 2 for numero in range(10) if numero*2 > 10]
+print(lista3)
