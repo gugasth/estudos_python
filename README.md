@@ -17,3 +17,5 @@
 - [Dict](intermediario/dict.py)
 
 - [List Comprehension](intermediario/list_comprehension.py)
+
+- [Is Instance](intermediario/isinstance.py)
