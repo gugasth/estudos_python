@@ -19,3 +19,5 @@
 - [List Comprehension](intermediario/list_comprehension.py)
 
 - [Is Instance](intermediario/isinstance.py)
+
+- [Truthy_false](intermediario/trutry_false.py)
