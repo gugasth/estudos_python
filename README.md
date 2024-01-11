@@ -20,4 +20,4 @@
 
 - [Is Instance](intermediario/isinstance.py)
 
-- [Truthy_false](intermediario/trutry_false.py)
+- [Truthy_falsy](intermediario/truthy_falsy.py)
