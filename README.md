@@ -1,5 +1,7 @@
 # Anotações de estudos sobre a linguagem python
 
+(coisas fáceis de esquecer que deixei anotado)
+
 ## [Básico (1)](basico)
 
 - [Float](basico/float.py)
