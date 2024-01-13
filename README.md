@@ -23,3 +23,5 @@
 - [Is Instance](intermediario/isinstance.py)
 
 - [Truthy_falsy](intermediario/truthy_falsy.py)
+
+- [Generator](intermediario/generator.py)
