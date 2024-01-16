@@ -25,3 +25,5 @@
 - [Truthy_falsy](intermediario/truthy_falsy.py)
 
 - [Generator](intermediario/generator.py)
+
+- [Generator Function](intermediario/generator_function.py)
