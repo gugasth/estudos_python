@@ -27,3 +27,7 @@
 - [Generator](intermediario/generator.py)
 
 - [Generator Function](intermediario/generator_function.py)
+
+- [Try Except](intermediario/try_except.py)
+
+- [NonLocal](intermediario/nonlocal.py)
