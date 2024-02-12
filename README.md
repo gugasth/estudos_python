@@ -35,4 +35,12 @@
 
 ## [Orientação a objetos (3)](oop)
 
+- [Init](oop/__init__.py)
+
 - [Class](oop/class.py)
+
+- [Atributos](oop/atributos.py)
+
+- [Metodo](oop/metodo.py)
+
+- [Vars](oop/vars.py)
