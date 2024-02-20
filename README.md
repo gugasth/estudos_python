@@ -44,3 +44,9 @@
 - [Metodo](oop/metodo.py)
 
 - [Vars](oop/vars.py)
+
+- [@Property](oop/@property.py)
+
+- [Modificadores de acesso](oop/modificadores_acesso.py)
+
+- [Herança](oop/heranca.py)
