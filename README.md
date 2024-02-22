@@ -50,3 +50,5 @@
 - [Modificadores de acesso](oop/modificadores_acesso.py)
 
 - [Herança](oop/heranca.py)
+
+- [Abstract class](oop/abstract_class.py)
