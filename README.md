@@ -52,3 +52,5 @@
 - [Herança](oop/heranca.py)
 
 - [Abstract class](oop/abstract_class.py)
+
+- [Polimorfismo](oop/polimorfismo.py)
