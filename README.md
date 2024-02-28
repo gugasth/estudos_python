@@ -54,3 +54,5 @@
 - [Abstract class](oop/abstract_class.py)
 
 - [Polimorfismo](oop/polimorfismo.py)
+
+- [Special Methods](oop/special_methods.py)
